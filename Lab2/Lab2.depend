@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1710238095 source:c:\users\majch\onedrive\pulpit\zoologiczny\jamnik.cpp
+	<string>
+	"Jamnik.h"
+	<iostream>
+
+1710237921 c:\users\majch\onedrive\pulpit\zoologiczny\jamnik.h
+	<string>
+	"Pies.h"
+
+1710237915 c:\users\majch\onedrive\pulpit\zoologiczny\pies.h
+	<string>
+	"Ssak.h"
+
+1710237913 c:\users\majch\onedrive\pulpit\zoologiczny\ssak.h
+	<string>
+
+1710237926 source:c:\users\majch\onedrive\pulpit\zoologiczny\pies.cpp
+	<string>
+	"Pies.h"
+
+1710237924 source:c:\users\majch\onedrive\pulpit\zoologiczny\ssak.cpp
+	<string>
+	"Ssak.h"
+
+1710238026 source:c:\users\majch\onedrive\pulpit\lab2\main.cpp
+	<iostream>
+	"../zoologiczny/Jamnik.h"
+
