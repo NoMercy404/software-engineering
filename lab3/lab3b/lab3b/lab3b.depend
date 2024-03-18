@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1710784043 source:c:\users\majch\onedrive\pulpit\lab3\lab3b\lab3b\main.cpp
+	<iostream>
+	"../Kierowca.h"
+	"../Samochod.h"
+
+1710784061 source:c:\users\majch\onedrive\pulpit\lab3\lab3b\samochod.cpp
+	<string>
+	"Samochod.h"
+	"Kierowca.h"
+
+1710784330 c:\users\majch\onedrive\pulpit\lab3\lab3b\samochod.h
+	<string>
+	"Kierowca.h"
+
+1710784275 c:\users\majch\onedrive\pulpit\lab3\lab3b\kierowca.h
+	<string>
+	<vector>
+	"Samochod.h"
+
+1710784305 source:c:\users\majch\onedrive\pulpit\lab3\lab3b\kierowca.cpp
+	<string>
+	<vector>
+	"Kierowca.h"
+	"Samochod.h"
+	<iostream>
+

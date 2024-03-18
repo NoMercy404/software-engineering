@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1710785416 source:c:\users\majch\onedrive\pulpit\lab3\lab3a\lab3a\main.cpp
+	<iostream>
+	<iostream>
+	"../Paliwo.h"
+	"../Samochod.h"
+
+1710785039 source:c:\users\majch\onedrive\pulpit\lab3\lab3a\paliwo.cpp
+	"Paliwo.h"
+	<string>
+
+1710784731 c:\users\majch\onedrive\pulpit\lab3\lab3a\paliwo.h
+	<string>
+
+1710785095 source:c:\users\majch\onedrive\pulpit\lab3\lab3a\samochod.cpp
+	"Samochod.h"
+	"Paliwo.h"
+	<string>
+	<iostream>
+
+1710785119 c:\users\majch\onedrive\pulpit\lab3\lab3a\samochod.h
+	"Paliwo.h"
+	<string>
+

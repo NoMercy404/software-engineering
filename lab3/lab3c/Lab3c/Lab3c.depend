@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1710782836 source:c:\users\majch\onedrive\pulpit\lab3\lab3c\pracownik.cpp
+	<string>
+	"Pracownik.h"
+
+1710783388 c:\users\majch\onedrive\pulpit\lab3\lab3c\pracownik.h
+	<string>
+
+1710783234 source:c:\users\majch\onedrive\pulpit\lab3\lab3c\lab3c\main.cpp
+	<iostream>
+	"../Firma.h"
+	"../Pracownik.h"
+	<iostream>
+	<vector>
+
+1710783194 source:c:\users\majch\onedrive\pulpit\lab3\lab3c\firma.cpp
+	<string>
+	"Firma.h"
+	<iostream>
+
+1710783559 c:\users\majch\onedrive\pulpit\lab3\lab3c\firma.h
+	<string>
+	"Pracownik.h"
+	<vector>
+
