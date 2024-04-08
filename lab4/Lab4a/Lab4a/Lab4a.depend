@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\student\desktop\lab4\lab4a\lab4a\main.cpp
+	<iostream>
+
+1710857605 source:c:\users\student\desktop\lab4\lab4a\pacjent.cpp
+	"Pacjent.h"
+	<string>
+
+1710857844 c:\users\student\desktop\lab4\lab4a\pacjent.h
+	<string>
+
+1710857545 source:c:\users\student\desktop\lab4\lab4a\szpital.cpp
+	"Szpital.h"
+	<string>
+	<iostream>
+
+1710857290 c:\users\student\desktop\lab4\lab4a\szpital.h
+	<string>
+	"Pacjent.h"
+	<vector>
+
+1710928682 source:c:\users\majch\onedrive\pulpit\lab4\lab4a\pacjent.cpp
+	"Pacjent.h"
+	<string>
+
+1710928682 c:\users\majch\onedrive\pulpit\lab4\lab4a\pacjent.h
+	<string>
+
+1710928682 source:c:\users\majch\onedrive\pulpit\lab4\lab4a\szpital.cpp
+	"Szpital.h"
+	<string>
+	<iostream>
+
+1710928682 c:\users\majch\onedrive\pulpit\lab4\lab4a\szpital.h
+	<string>
+	"Pacjent.h"
+	<vector>
+
+1710928682 source:c:\users\majch\onedrive\pulpit\lab4\lab4a\lab4a\main.cpp
+	<iostream>
+	"../Pacjent.h"
+	"../Szpital.h"
+

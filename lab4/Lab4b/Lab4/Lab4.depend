@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1712593633 source:c:\users\majch\onedrive\pulpit\lab4\lab4b\program.cpp
+	<string>
+	"Program.h"
+	"Watek.h"
+
+1712593628 c:\users\majch\onedrive\pulpit\lab4\lab4b\program.h
+	<string>
+	<iostream>
+	"Watek.h"
+
+1712593107 c:\users\majch\onedrive\pulpit\lab4\lab4b\watek.h
+
+1712593104 source:c:\users\majch\onedrive\pulpit\lab4\lab4b\watek.cpp
+	"Watek.h"
+
+1712593677 source:c:\users\majch\onedrive\pulpit\lab4\lab4b\lab4\main.cpp
+	<iostream>
+	<string>
+	"../Program.h"
+	"../Watek.h"
+
