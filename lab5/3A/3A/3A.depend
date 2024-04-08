@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1712597942 source:c:\users\majch\onedrive\pulpit\lab5\3a\3a\main.cpp
+	<iostream>
+	"../KomisSamochodowy.h"
+	"../Pojazd.h"
+	"../Samochod.h"
+	<vector>
+
+1712597564 source:c:\users\majch\onedrive\pulpit\lab5\3a\pojazd.cpp
+	<string>
+	"Pojazd.h"
+
+1712597569 c:\users\majch\onedrive\pulpit\lab5\3a\pojazd.h
+	<string>
+
+1712597159 source:c:\users\majch\onedrive\pulpit\lab5\3a\komissamochodowy.cpp
+	<string>
+	<vector>
+	"KomisSamochodowy.h"
+
+1712597108 c:\users\majch\onedrive\pulpit\lab5\3a\komissamochodowy.h
+	<string>
+	<vector>
+	"Samochod.h"
+
+1712597635 c:\users\majch\onedrive\pulpit\lab5\3a\samochod.h
+	<string>
+	<iostream>
+	"Pojazd.h"
+
+1712597627 source:c:\users\majch\onedrive\pulpit\lab5\3a\samochod.cpp
+	<string>
+	"Samochod.h"
+
