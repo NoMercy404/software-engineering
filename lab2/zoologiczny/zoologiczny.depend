@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1710177694 source:e:\staruml\lab_2\ssak.cpp
+	"Ssak.h"
+	<string>
+	<iostream>
+
+1710177718 e:\staruml\lab_2\ssak.h
+	<string>
+
+1710177660 source:e:\staruml\lab_2\jamnik.cpp
+	"Jamnik.h"
+	<string>
+	<iostream>
+
+1710177702 e:\staruml\lab_2\jamnik.h
+	"Pies.h"
+	<string>
+
+1710177710 e:\staruml\lab_2\pies.h
+	"Ssak.h"
+	<string>
+
+1710177674 source:e:\staruml\lab_2\pies.cpp
+	"Pies.h"
+	<string>
+	<iostream>
+
+1710177684 source:e:\staruml\lab_2\zoologiczny\main.cpp
+	<iostream>
+	<string>
+	"../Jamnik.h"
+
