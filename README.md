@@ -1,11 +1,11 @@
-# software-engineering UMCS
-## LAB1 
+### software-engineering UMCS
+## ***LAB 1*** 
 Zaproponuj ogólny model przypadków użycia dla
 >Sklepu Internetowego
 
 >Komisu Samochodowego
 
-## LAB2 
+## ***LAB 2***
 Załóżmy, że rozpoczynamy pracę nad systemem informatycznym do obsługi klienta 
 w sklepie internetowym, np. zoologicznym.
 
@@ -21,3 +21,18 @@ narzędzia, np. Code::Blocks).
 >* Stwórz obiekt na bazie klasy Jamnik.
 >* Przetestuj program.
 >* Zachowaj w repozytorium wszystkie pliki.
+
+## ***LAB 3***
+Zaproponuj wstępny, ogólny model przypadków użycia dla systemu w którym zawarta będzie:
+>Zależność
+
+>Asocjacja
+
+>Agregacja prosta
+
+## ***LAB 4***
+Zaproponuj wstępny, ogólny model przypadków użycia dla systemu w którym zawarta będzie:
+>Agregacja Prosta
+
+>Agregacja Całkowita
+
