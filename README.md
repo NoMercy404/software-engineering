@@ -1,9 +1,9 @@
 ### software-engineering UMCS
 ## ***LAB 1*** 
 Zaproponuj ogólny model przypadków użycia dla
->Sklepu Internetowego
+>* Sklepu Internetowego
 
->Komisu Samochodowego
+>* Komisu Samochodowego
 
 ## ***LAB 2***
 Załóżmy, że rozpoczynamy pracę nad systemem informatycznym do obsługi klienta 
@@ -26,9 +26,9 @@ narzędzia, np. Code::Blocks).
 Zaproponuj wstępny, ogólny model przypadków użycia dla systemu w którym zawarta będzie:
 >Zależność
 
->Asocjacja
+>* Asocjacja
 
->Agregacja prosta
+>* Agregacja prosta
 
 ## ***LAB 4***
 Zaproponuj wstępny, ogólny model przypadków użycia dla systemu w którym zawarta będzie:
@@ -37,7 +37,7 @@ Zaproponuj wstępny, ogólny model przypadków użycia dla systemu w którym zaw
 >Agregacja Całkowita
 
 ## ***LAB 5***
-A:
+* A:
 >Samodzielnie zdefiniuj dziedzinę problemu (jakiś sensowny przykład ze
 świata rzeczywistego), tak aby możny było ogólnie jakościowo opisać ją za
 pomocą relacji:\
@@ -52,7 +52,7 @@ dziedziny problemu.
 test.jpg).
 
 
-B:
+* B:
 >Samodzielnie zdefiniuj dziedzinę problemu (jakiś sensowny przykład ze
 świata rzeczywistego), tak aby możny było ogólnie jakościowo opisać ją za
 pomocą relacji:\
