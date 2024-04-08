@@ -32,9 +32,9 @@ Zaproponuj wstępny, ogólny model przypadków użycia dla systemu w którym zaw
 
 ## ***LAB 4***
 Zaproponuj wstępny, ogólny model przypadków użycia dla systemu w którym zawarta będzie:
->Agregacja Prosta
+>* Agregacja Prosta
 
->Agregacja Całkowita
+>* Agregacja Całkowita
 
 ## ***LAB 5***
 * A:
@@ -52,7 +52,7 @@ dziedziny problemu.
 test.jpg).
 
 
-* B:
+* C:
 >Samodzielnie zdefiniuj dziedzinę problemu (jakiś sensowny przykład ze
 świata rzeczywistego), tak aby możny było ogólnie jakościowo opisać ją za
 pomocą relacji:\
