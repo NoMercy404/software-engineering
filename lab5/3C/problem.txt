@@ -1,0 +1,1 @@
+W tym przykładzie tworzę system infomatyczny dla szkoły w chmurze. szkoła agreguje klasę oraz klasa agreguje całkowicie ucznia
