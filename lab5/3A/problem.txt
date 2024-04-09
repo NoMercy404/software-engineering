@@ -1,0 +1,1 @@
+Komis samochodowy agreguje obiekty klasy Samochod, natomiast pomiędzy klasami Samochod i Pojazd znajduje się relacja dziedziczenia, gdzie to klasa Samochod dziedziczy po klasie Pojazd.
