@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1712674431 source:c:\users\student\desktop\test\test\main.cpp
+	<iostream>
+	"../System.h"
+	"../Uzytkownik.h"
+	<string>
+
+1712673903 source:c:\users\student\desktop\test\system.cpp
+	<iostream>
+	<vector>
+	<string>
+	"Uzytkownik.h"
+	"System.h"
+
+1712673274 c:\users\student\desktop\test\uzytkownik.h
+	<string>
+	"System.h"
+
+1712673961 c:\users\student\desktop\test\system.h
+	<vector>
+	<string>
+	"Uzytkownik.h"
+
+1712674493 source:c:\users\student\desktop\test\uzytkownik.cpp
+	<string>
+	<iostream>
+	"System.h"
+	"Uzytkownik.h"
+
+1712739050 source:c:\users\majch\onedrive\pulpit\lb7\test\system.cpp
+	<iostream>
+	<vector>
+	<string>
+	"Uzytkownik.h"
+	"System.h"
+
+1712738439 c:\users\majch\onedrive\pulpit\lb7\test\uzytkownik.h
+	<string>
+	"System.h"
+
+1712738439 c:\users\majch\onedrive\pulpit\lb7\test\system.h
+	<vector>
+	<string>
+	"Uzytkownik.h"
+
+1712738900 source:c:\users\majch\onedrive\pulpit\lb7\test\uzytkownik.cpp
+	<string>
+	<iostream>
+	"System.h"
+	"Uzytkownik.h"
+
+1712738707 source:c:\users\majch\onedrive\pulpit\lb7\test\test\main.cpp
+	<iostream>
+	"../System.h"
+	"../Uzytkownik.h"
+	<string>
+
