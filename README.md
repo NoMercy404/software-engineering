@@ -65,3 +65,17 @@ dziedziny problemu.
 >* Przetestuj program.
 >* Zachowaj w repozytorium wszystkie pliki (problem.txt, diagram.jpg, kod.cpp,
 test.jpg).
+
+
+## ***LAB 6***
+Dany jest diagram czynności ze ścieżkami obrazującymi możliwy “przepływ
+sterowania” w hipotetycznym systemie obsługującym logowanie i rejestrację
+użytkownioka do sklepu internetowego.\
+![image](https://github.com/NoMercy404/software-engineering/assets/126580913/8d4c5adc-fe13-45bb-9b5a-4d99cea0410c)
+>* Zaproponuj możliwe przypadki użycia z punktu widzenia użytkownika.
+>* Zaproponuj postać logicznej struktury systyemu realizującego powyższe,
+podstawowe założenia.
+>* Dokonaj transformacji modelu do postaci szkieletu kodu.
+>* Uzupełnij implementację.
+>* Wykonaj podstawowe testy systemu.
+
