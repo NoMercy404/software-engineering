@@ -1,4 +1,4 @@
-### software-engineering UMCS
+### Software-Engineering on UMCS
 ## ***LAB 1*** 
 Zaproponuj ogólny model przypadków użycia dla
 >* Sklepu Internetowego
