@@ -18,7 +18,6 @@ using namespace std;
 
 class Klasa {
 public:
-	vector<Uczen*> uczniowie;
 	void setNumer(int nr);
 	int getNumer();
 	Klasa(int numer);
@@ -27,6 +26,7 @@ public:
 	void usunUcznia(int id);
 private:
 	int numer;
+	vector<Uczen*> uczniowie;
 };
 
 #endif  //_KLASA_H
