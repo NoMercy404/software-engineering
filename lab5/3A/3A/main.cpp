@@ -8,7 +8,7 @@ using namespace std;
 
 int main()
 {
-    KomisSamochodowy * k1 = new KomisSamochodowy("Zlomowisko","Jana Paw³a 2/12");
+    KomisSamochodowy * k1 = new KomisSamochodowy("Zlomowisko","Jana Pawla 2/12");
     Samochod * s1= new Samochod("Ford", "Focus",144);
     s1->setSrodowisko("miasto");
     s1->setMoc(155);

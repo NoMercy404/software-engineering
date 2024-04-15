@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1712600649 source:c:\users\majch\onedrive\pulpit\lab5\3c\3c\main.cpp
+1712665173 source:c:\users\majch\onedrive\pulpit\lab5\3c\3c\main.cpp
 	<iostream>
 	"../Klasa.h"
 	"../Szkola.h"
@@ -16,14 +16,14 @@
 	<vector>
 	"Klasa.h"
 
-1712600471 c:\users\majch\onedrive\pulpit\lab5\3c\klasa.h
+1713185629 c:\users\majch\onedrive\pulpit\lab5\3c\klasa.h
 	<vector>
 	"Uczen.h"
 
 1712600443 c:\users\majch\onedrive\pulpit\lab5\3c\uczen.h
 	<string>
 
-1712600491 source:c:\users\majch\onedrive\pulpit\lab5\3c\klasa.cpp
+1712600822 source:c:\users\majch\onedrive\pulpit\lab5\3c\klasa.cpp
 	<iostream>
 	"Klasa.h"
 

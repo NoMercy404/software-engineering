@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1712597942 source:c:\users\majch\onedrive\pulpit\lab5\3a\3a\main.cpp
+1712664833 source:c:\users\majch\onedrive\pulpit\lab5\3a\3a\main.cpp
 	<iostream>
 	"../KomisSamochodowy.h"
 	"../Pojazd.h"

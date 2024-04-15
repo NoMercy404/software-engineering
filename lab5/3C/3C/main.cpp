@@ -8,10 +8,10 @@ using namespace std;
 int main()
 {
     Szkola* zs1 = new Szkola("Grabski",1);
-    Klasa* osiemnascie = new Klasa(18);
-    zs1->dodajKlase(osiemnascie);
+    Klasa* kl1 = new Klasa(18);
+    zs1->dodajKlase(kl1);
     Uczen* u1 = new Uczen("Mateusz","Majchrowski",21,0);
-    osiemnascie->dodajUcznia(u1);
+    kl1->dodajUcznia(u1);
     zs1->getKlasy();
-    osiemnascie->getUczniowie();
+    kl1->getUczniowie();
 }
