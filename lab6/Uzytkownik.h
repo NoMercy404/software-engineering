@@ -21,10 +21,11 @@ class System;
 class Uzytkownik {
 public:
 	Uzytkownik(string login, string password);
-	void rejestruj(System* sys_pointer);
+	void rejestruj(System* sys_pointer, Uzytkownik *User);
 	void loguj(System* sys_pointer);
 	void wyloguj();
 	string getLogin();
+	string getHaslo();
 private:
 	string login;
 	string haslo;

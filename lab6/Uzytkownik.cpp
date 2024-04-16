@@ -21,23 +21,57 @@ Uzytkownik::Uzytkownik(string login, string password) {
     this->s_pointer = nullptr;
 }
 
-void Uzytkownik::rejestruj(System* sys_pointer) {
-    sys_pointer->dodajUser(this);
+void Uzytkownik::rejestruj(System* sys_pointer, Uzytkownik *User) {
+    sys_pointer->dodajUser(User);
+    loguj(sys_pointer);
 }
 
 void Uzytkownik::loguj(System* sys_pointer) {
-    if(sys_pointer->uwierzytelnij(this->getLogin())){
-        s_pointer = sys_pointer;
-        cout<<"zalogowano";
+    int x;
+    cout<<"0-Logowanie 1-Rejestracja 9- wyjdz\n";
+    cin>>x;
+    if(x==0){
+        string login,haslo;
+        cout<<"Login ";
+        cin>>login;
+        cout<<"Haslo ";
+        cin>>haslo;
+        Uzytkownik* u2 = new Uzytkownik(login,haslo);
+        if(sys_pointer->uwierzytelnij(u2->getLogin(), u2->getHaslo() )){
+            cout<<"Zalogowano \n";
+            cout<<"Wybierz 1 jak chcesz sie wylogowac ";
+            int a;
+            cin>>a;
+            if(a == 1 ){
+                u2->wyloguj();
+            }
+
+        }
+        else{
+            cout<<"Nie zalogowano \n";
+            loguj(sys_pointer);
+        }
     }
-    else{
-        cout<<"nie zalogowano";
+    else if(x==1){
+        string new_log,new_has;
+        cout<<"Login ";
+        cin>>new_log;
+        cout<<"Haslo ";
+        cin>>new_has;
+
+        Uzytkownik* u3 = new Uzytkownik(new_log,new_has);
+        u3->rejestruj(sys_pointer,u3);
     }
 }
 
 void Uzytkownik::wyloguj() {
-    s_pointer = nullptr;
+    this->s_pointer = nullptr;
+    cout<<"zostales wylgowany \n";
 }
 string Uzytkownik::getLogin(){
     return login;
 }
+string Uzytkownik::getHaslo(){
+    return haslo;
+}
+

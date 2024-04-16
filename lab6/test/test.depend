@@ -55,3 +55,31 @@
 	"../Uzytkownik.h"
 	<string>
 
+1713198025 source:c:\users\majch\onedrive\pulpit\lb7\lab6\system.cpp
+	<iostream>
+	<vector>
+	<string>
+	"Uzytkownik.h"
+	"System.h"
+
+1713261750 c:\users\majch\onedrive\pulpit\lb7\lab6\uzytkownik.h
+	<string>
+	"System.h"
+
+1713197960 c:\users\majch\onedrive\pulpit\lb7\lab6\system.h
+	<vector>
+	<string>
+	"Uzytkownik.h"
+
+1713261874 source:c:\users\majch\onedrive\pulpit\lb7\lab6\uzytkownik.cpp
+	<string>
+	<iostream>
+	"System.h"
+	"Uzytkownik.h"
+
+1713261339 source:c:\users\majch\onedrive\pulpit\lb7\lab6\test\main.cpp
+	<iostream>
+	"../System.h"
+	"../Uzytkownik.h"
+	<string>
+

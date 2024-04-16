@@ -15,9 +15,9 @@
 using namespace std;
 #include "System.h"
 
-bool System::uwierzytelnij(string login) {
-    for(int i = 0 ; i < tab.size();i++){
-        if(tab[i]->getLogin() == login){
+bool System::uwierzytelnij(string login,string haslo) {
+    for(int i = 0 ; i < uzytkownicy.size();i++){
+        if(uzytkownicy[i]->getLogin() == login && uzytkownicy[i]->getHaslo() == haslo){
             return true;
         }
     }
@@ -25,9 +25,7 @@ bool System::uwierzytelnij(string login) {
     return false;
 }
 
-void System::dodajUser(Uzytkownik* user) {
-    if(!this->uwierzytelnij(user->getLogin())){
-        tab.push_back(user);
-    }
+void System::dodajUser(Uzytkownik* user){
+    uzytkownicy.push_back(user);
 }
 

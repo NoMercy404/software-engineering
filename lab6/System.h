@@ -22,9 +22,10 @@ using namespace std;
 class Uzytkownik;
 class System {
 public:
-	vector<Uzytkownik*> tab;
-	bool uwierzytelnij(string login);
+	bool uwierzytelnij(string login,string haslo);
 	void dodajUser(Uzytkownik* user);
+private:
+	vector<Uzytkownik *> uzytkownicy;
 };
 
 #endif  //_SYSTEM_H
