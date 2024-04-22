@@ -79,3 +79,15 @@ podstawowe założenia.
 >* Uzupełnij implementację.
 >* Wykonaj podstawowe testy systemu.
 
+## ***LAB 7***
+Schematem Bernouliego nazywamy rozkład, w którym zmienna losowa  ma rozkład dwumianowy
+o parametrach:
+![image](https://github.com/NoMercy404/software-engineering/assets/126580913/03e1da30-c182-4615-8846-995e8753e867)
+
+>* Zaproponuj diagram przypadków użycia dla systemu
+>* Zaproponuj model dziedziny problemu (statyczny diagram klas) uwzględniając dekompozycję modelu
+>* Wykonaj odpowiadający diagram sekwencji
+>* Zaimplementuj system
+>* Przetestuj dla danych właściwych dziedzinie problemu (p, n, k)
+>* Wynik testów skonfrontuj z pkty 1, 2, 3.
+>* W repozytorium zachowaj pkty (1-5) W JEDNYM pliku Nazwisko_Imie.pdf
