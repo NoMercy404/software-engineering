@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1713788396 source:c:\users\majch\onedrive\pulpit\lab7\lab7\main.cpp
+	<iostream>
+	"../Bernouli.h"
+
+1713788469 source:c:\users\majch\onedrive\pulpit\lab7\potega.cpp
+	<iostream>
+	"Potega.h"
+
+1713788167 c:\users\majch\onedrive\pulpit\lab7\potega.h
+
+1713788427 source:c:\users\majch\onedrive\pulpit\lab7\silnia.cpp
+	<iostream>
+	"Silnia.h"
+
+1713788490 c:\users\majch\onedrive\pulpit\lab7\silnia.h
+
+1713787772 source:c:\users\majch\onedrive\pulpit\lab7\symbolnewtona.cpp
+	<iostream>
+	"SymbolNewtona.h"
+
+1713787707 c:\users\majch\onedrive\pulpit\lab7\symbolnewtona.h
+	"Silnia.h"
+
+1713789386 source:c:\users\majch\onedrive\pulpit\lab7\bernouli.cpp
+	"SymbolNewtona.h"
+	"Bernouli.h"
+	<iostream>
+
+1713787370 c:\users\majch\onedrive\pulpit\lab7\bernouli.h
+	"Potega.h"
+	"SymbolNewtona.h"
+
