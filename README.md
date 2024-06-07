@@ -91,3 +91,13 @@ o parametrach:
 >* Przetestuj dla danych właściwych dziedzinie problemu (p, n, k)
 >* Wynik testów skonfrontuj z pkty 1, 2, 3.
 >* W repozytorium zachowaj pkty (1-5) W JEDNYM pliku Nazwisko_Imie.pdf
+
+
+## ***LAB 8***
+![image](https://github.com/NoMercy404/software-engineering/assets/126580913/833e6fa5-3b46-4269-ace7-76425bc994b3)
+
+
+## ***LAB 9***
+![image](https://github.com/NoMercy404/software-engineering/assets/126580913/7fe35c6e-b349-41b7-8a48-05bfcf462bd0)
+
+
